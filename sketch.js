@@ -15,7 +15,7 @@ var name = null;
 var line;
 var gameState;
 var readState;
-var bedroom,garden,washroom
+var bedroom,garden,washroom;
 
 function preload()
 {
